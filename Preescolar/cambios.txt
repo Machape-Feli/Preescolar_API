@@ -1,0 +1,1 @@
+revisar la validacion de las foraneas (id) para el /controladores/"store"
